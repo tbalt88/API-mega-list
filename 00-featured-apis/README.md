@@ -8,22 +8,15 @@
 
 ## Featured Categories
 
-| Category | APIs |
-|----------|------|
-| [Artificial Intelligence](#artificial-intelligence) | 77 |
-| [Data Extraction](#data-extraction) | 49 |
-| [File Conversion](#file-conversion) | 41 |
-| [Smart Generation](#smart-generation) | 24 |
-| [Data Validation](#data-validation) | 18 |
-| [File Manipulation](#file-manipulation) | 16 |
-| [Image Processing](#image-processing) | 16 |
-| [SEO](#seo) | 16 |
-| [HR](#hr) | 14 |
-| [Marketing](#marketing) | 11 |
-| [E-commerce Quick Tools](#e-commerce-quick-tools) | 10 |
-| [Standard Data](#standard-data) | 10 |
-| [File Security](#file-security) | 9 |
-| [Travel](#travel) | 3 |
+| Featured category | APIs | Featured category | APIs |
+|-------------------|-----:|-------------------|-----:|
+| [Artificial Intelligence](#artificial-intelligence)<br><sub>AI, NLP, media intelligence</sub> | **77** | [Data Extraction](#data-extraction)<br><sub>Text, documents, web data</sub> | **49** |
+| [File Conversion](#file-conversion)<br><sub>Documents, images, audio, video</sub> | **41** | [Smart Generation](#smart-generation)<br><sub>Content and asset generation</sub> | **24** |
+| [Data Validation](#data-validation)<br><sub>Email, finance, files, websites</sub> | **18** | [File Manipulation](#file-manipulation)<br><sub>Resize, compress, edit, extract</sub> | **16** |
+| [Image Processing](#image-processing)<br><sub>Backgrounds, metadata, thumbnails</sub> | **16** | [SEO](#seo)<br><sub>Audits, schema, rankings, content</sub> | **16** |
+| [HR](#hr)<br><sub>Resumes, jobs, hiring workflows</sub> | **14** | [Marketing](#marketing)<br><sub>Pricing, keywords, outreach content</sub> | **11** |
+| [E-commerce Quick Tools](#e-commerce-quick-tools)<br><sub>Product, pricing, commerce helpers</sub> | **10** | [Standard Data](#standard-data)<br><sub>Countries, currencies, metadata</sub> | **10** |
+| [File Security](#file-security)<br><sub>Watermarks, metadata, safe uploads</sub> | **9** | [Travel](#travel)<br><sub>Reviews and travel categories</sub> | **3** |
 
 ---
 
